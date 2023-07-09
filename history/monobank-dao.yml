@@ -1,7 +1,7 @@
 url: https://dao.monobank.com
-status: down
-code: 502
-responseTime: 463
-lastUpdated: 2023-07-08T23:17:11.021Z
+status: up
+code: 200
+responseTime: 714
+lastUpdated: 2023-07-09T05:55:44.433Z
 startTime: Tue Jun 20 2023 05:41:29 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
