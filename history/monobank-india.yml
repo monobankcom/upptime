@@ -1,7 +1,7 @@
 url: https://monobank.in
-status: up
-code: 200
-responseTime: 644
-lastUpdated: 2023-07-16T23:17:19.633Z
+status: down
+code: 500
+responseTime: 327
+lastUpdated: 2023-07-17T22:50:28.077Z
 startTime: Tue Jun 20 2023 05:41:30 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
