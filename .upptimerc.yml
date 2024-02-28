@@ -8,9 +8,6 @@ sites:
   - name: monobank App
     url: https://app.monobank.com
     
-  - name: monobank DAO
-    url: https://dao.monobank.com
-    
   - name: monobank India
     url: https://monobank.in
 
@@ -38,9 +35,7 @@ status-website:
     - title: Home
       href: https://monobank.com
     - title: monobank App
-      href: https://app.monobank.com
-    - title: Twitter
-      href: https://twitter.com/_monobank      
+      href: https://app.monobank.com    
   assignees:
     - belovolk
     - rdmsh
