@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/monobank.com.ico",
     "slug": "monobank-com",
     "status": "up",
-    "uptime": "56.68%",
+    "uptime": "56.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "71.14%",
+    "uptimeYear": "71.41%",
     "time": 124,
-    "timeDay": 79,
-    "timeWeek": 133,
+    "timeDay": 75,
+    "timeWeek": 115,
     "timeMonth": 138,
     "timeYear": 118,
     "dailyMinutesDown": {
@@ -119,8 +119,7 @@
       "2023-11-21": 1440,
       "2023-11-20": 1440,
       "2023-11-19": 1440,
-      "2023-11-18": 1440,
-      "2023-11-17": 1440
+      "2023-11-18": 1440
     }
   },
   {
@@ -129,18 +128,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.monobank.com.ico",
     "slug": "monobank-app",
     "status": "down",
-    "uptime": "6.78%",
+    "uptime": "6.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 133,
-    "timeDay": 57,
-    "timeWeek": 124,
+    "time": 132,
+    "timeDay": 61,
+    "timeWeek": 116,
     "timeMonth": 109,
     "timeYear": 118,
     "dailyMinutesDown": {
-      "2024-11-15": 53,
+      "2024-11-16": 51,
+      "2024-11-15": 1440,
       "2024-11-14": 1440,
       "2024-11-13": 1440,
       "2024-11-12": 1440,
@@ -503,8 +503,7 @@
       "2023-11-21": 1440,
       "2023-11-20": 1440,
       "2023-11-19": 1440,
-      "2023-11-18": 1440,
-      "2023-11-17": 1440
+      "2023-11-18": 1440
     }
   },
   {
@@ -513,18 +512,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/monobank.in.ico",
     "slug": "monobank-india",
     "status": "down",
-    "uptime": "46.85%",
+    "uptime": "46.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "26.54%",
-    "time": 325,
-    "timeDay": 48,
-    "timeWeek": 137,
-    "timeMonth": 104,
-    "timeYear": 291,
+    "uptimeYear": "26.27%",
+    "time": 324,
+    "timeDay": 71,
+    "timeWeek": 131,
+    "timeMonth": 105,
+    "timeYear": 290,
     "dailyMinutesDown": {
-      "2024-11-15": 53,
+      "2024-11-16": 51,
+      "2024-11-15": 1440,
       "2024-11-14": 1440,
       "2024-11-13": 1440,
       "2024-11-12": 1440,
@@ -834,8 +834,7 @@
       "2023-11-24": 22,
       "2023-11-23": 60,
       "2023-11-21": 177,
-      "2023-11-20": 288,
-      "2023-11-17": 446
+      "2023-11-20": 288
     }
   },
   {
@@ -849,11 +848,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
-    "time": 3031,
-    "timeDay": 3165,
-    "timeWeek": 3354,
-    "timeMonth": 3430,
-    "timeYear": 3130,
+    "time": 3036,
+    "timeDay": 3457,
+    "timeWeek": 3319,
+    "timeMonth": 3436,
+    "timeYear": 3128,
     "dailyMinutesDown": {
       "2024-04-19": 211,
       "2024-04-03": 16,
