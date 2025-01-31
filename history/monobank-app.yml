@@ -1,7 +1,7 @@
 url: https://app.monobank.com
-status: down
-code: 403
-responseTime: 138
-lastUpdated: 2025-01-31T16:17:07.697Z
+status: up
+code: 200
+responseTime: 339
+lastUpdated: 2025-01-31T17:51:17.401Z
 startTime: 2023-06-20T05:41:28.000Z
 generator: Upptime <https://github.com/upptime/upptime>
