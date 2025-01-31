@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/monobank.com.ico",
     "slug": "monobank-com",
     "status": "up",
-    "uptime": "62.32%",
+    "uptime": "62.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.22%",
+    "uptimeYear": "92.23%",
     "time": 121,
     "timeDay": 68,
     "timeWeek": 92,
@@ -43,8 +43,7 @@
       "2024-02-05": 1440,
       "2024-02-04": 1440,
       "2024-02-03": 1440,
-      "2024-02-02": 1434,
-      "2024-02-01": 1440
+      "2024-02-02": 1434
     }
   },
   {
@@ -53,9 +52,9 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.monobank.com.ico",
     "slug": "monobank-app",
     "status": "up",
-    "uptime": "5.94%",
-    "uptimeDay": "11.24%",
-    "uptimeWeek": "2.41%",
+    "uptime": "5.95%",
+    "uptimeDay": "15.65%",
+    "uptimeWeek": "3.04%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 133,
@@ -64,7 +63,7 @@
     "timeMonth": 219,
     "timeYear": 143,
     "dailyMinutesDown": {
-      "2025-01-30": 1276,
+      "2025-01-30": 1264,
       "2025-01-29": 1399,
       "2025-01-28": 1401,
       "2025-01-27": 1440,
@@ -427,8 +426,7 @@
       "2024-02-05": 1434,
       "2024-02-04": 1440,
       "2024-02-03": 1440,
-      "2024-02-02": 1434,
-      "2024-02-01": 1440
+      "2024-02-02": 1434
     }
   },
   {
@@ -437,18 +435,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/monobank.in.ico",
     "slug": "monobank-india",
     "status": "down",
-    "uptime": "41.54%",
+    "uptime": "41.53%",
     "uptimeDay": "8.95%",
     "uptimeWeek": "1.70%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "6.78%",
+    "uptimeYear": "6.77%",
     "time": 224,
     "timeDay": 245,
     "timeWeek": 227,
     "timeMonth": 196,
     "timeYear": 171,
     "dailyMinutesDown": {
-      "2025-01-30": 1308,
+      "2025-01-31": 49,
+      "2025-01-30": 1310,
       "2025-01-29": 1398,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
