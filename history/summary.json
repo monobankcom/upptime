@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/monobank.com.ico",
     "slug": "monobank-com",
     "status": "up",
-    "uptime": "63.38%",
+    "uptime": "63.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.89%",
+    "uptimeYear": "97.16%",
     "time": 120,
-    "timeDay": 102,
-    "timeWeek": 95,
-    "timeMonth": 122,
+    "timeDay": 101,
+    "timeWeek": 99,
+    "timeMonth": 119,
     "timeYear": 129,
     "dailyMinutesDown": {
       "2024-06-16": 15,
@@ -25,8 +25,7 @@
       "2024-02-23": 1440,
       "2024-02-22": 1440,
       "2024-02-21": 1440,
-      "2024-02-20": 1440,
-      "2024-02-19": 1440
+      "2024-02-20": 1440
     }
   }
 ]
