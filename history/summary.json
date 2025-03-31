@@ -4,8 +4,8 @@
     "url": "https://monobank.com",
     "icon": "https://icons.duckduckgo.com/ip3/monobank.com.ico",
     "slug": "monobank-com",
-    "status": "up",
-    "uptime": "65.75%",
+    "status": "down",
+    "uptime": "65.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 119,
     "timeYear": 128,
     "dailyMinutesDown": {
+      "2025-03-31": 0,
       "2024-06-16": 15
     }
   }
